@@ -12,7 +12,9 @@
 html, body {
 	height: 100%;
 }
-
+.flaticon-menu:before{
+	font-size: 16px !important;
+}
 body {
 	background:url(bg-head-1.jpg);
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
@@ -195,7 +197,7 @@ a:focus {
 
 .navbar-toggle {
     padding: 4px 6px;
-    font-size: 16px;
+
     color: #fff;
 }
 
@@ -1053,9 +1055,9 @@ a:focus {
  	color:black;
  }
 #portfolio .filter a.current:after {
-    content: "\f00c";
+    content: "\f105";
     display: block;
-    font-family:"fontAwesome";
+    font-family:"Flaticon";
     font-size: 15px;
     left: 0px;
     position: absolute;

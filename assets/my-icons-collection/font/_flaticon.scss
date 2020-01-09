@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 01/01/2020 07:00
+    Creation date: 09/01/2020 12:08
     */
 
     @font-face {
@@ -41,8 +41,12 @@
 .flaticon-facebook:before { content: "\f101"; }
 .flaticon-instagram:before { content: "\f102"; }
 .flaticon-linkedin:before { content: "\f103"; }
+.flaticon-menu:before { content: "\f104"; }
+.flaticon-tick:before { content: "\f105"; }
     
     $font-Flaticon-github: "\f100";
     $font-Flaticon-facebook: "\f101";
     $font-Flaticon-instagram: "\f102";
     $font-Flaticon-linkedin: "\f103";
+    $font-Flaticon-menu: "\f104";
+    $font-Flaticon-tick: "\f105";
