@@ -1654,7 +1654,18 @@ hr.not-visible{
 }
 
 
+@media only screen and (max-width: 768px) {
+	body{
+		padding:6%;
+	}
+	.portfolio-grid{
+		padding-left: 18%;
 
+	}
+	 .col-xs-9{
+		margin-bottom: 5%;
+	}
+}
 
 /*only for webkit  browsers*/
 @media screen and (-webkit-min-device-pixel-ratio:0) {
